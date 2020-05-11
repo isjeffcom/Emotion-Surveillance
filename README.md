@@ -34,7 +34,7 @@ Due to the legal concern, we are still considering if this should go live.
 
 ![How-it-works](https://i.ibb.co/80r083b/accccc.png)
 
-Full Image: https://i.ibb.co/80r083b/accccc.png
+Full Image: https://ibb.co/4787Ny2
 
 ## Data accuracy
 The value that the robot exported is not a professional mental analysation, instead, it is only a reference for art demonstration. We admit that there are no evidence suggested that these images in the social network can represent emotion data in a certain area. After all, the main purpose of this project is to demonstrate a manifesto that alerts people to protect their ‘visible privacy’.
