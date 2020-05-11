@@ -32,7 +32,7 @@ Due to the legal concern, we are still considering if this should go live.
 * you can run this script regularly and use it as an API to feed your front-end interface. 
 * which of course it will require a powerful machine.
 
-![How-it-works](https://i.ibb.co/80r083b/accccc.png)
+![How-it-works](https://i.ibb.co/z6mf3Xz/accccc.png)
 
 ## Data accuracy
 The value that the robot exported is not a professional mental analysation, instead, it is only a reference for art demonstration. We admit that there are no evidence suggested that these images in the social network can represent emotion data in a certain area. After all, the main purpose of this project is to demonstrate a manifesto that alerts people to protect their ‘visible privacy’.
