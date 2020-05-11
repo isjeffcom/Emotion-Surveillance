@@ -1,0 +1,10 @@
+{
+  "author": "jeffwu",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.7.0",
+    "canvas": "^2.6.1",
+    "face-api.js": "^0.22.2",
+    "tslib": "^1.11.1"
+  }
+}
