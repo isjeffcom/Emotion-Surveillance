@@ -1,1 +1,498 @@
-[{"name":"barkinganddagenham","emo":27.9819,"la":51.54244,"lo":0.14776,"dict":"barkinganddagenham","detail":{"neutral":28.4231,"happy":27.9819,"sad":37.1619,"angry":4.0204,"fearful":0.2187,"disgusted":1.1223,"surprised":1.0717}},{"name":"barnet","emo":35.7689,"la":51.658724,"lo":-0.190878,"dict":"barnet","detail":{"neutral":33.4326,"happy":35.7689,"sad":20.3073,"angry":6.9168,"fearful":0.4061,"disgusted":1.6389,"surprised":1.5293}},{"name":"brent","emo":56.9325,"la":54,"lo":-2,"dict":"brent","detail":{"neutral":25.8322,"happy":56.9325,"sad":8.1987,"angry":6.4977,"fearful":0.7105,"disgusted":0.8512,"surprised":0.9772}},{"name":"bromley","emo":26.8472,"la":51.407,"lo":0.021,"dict":"bromley","detail":{"neutral":52.3785,"happy":26.8472,"sad":13.0672,"angry":3.555,"fearful":0.151,"disgusted":1.2128,"surprised":2.7882}},{"name":"camden","emo":41.2822,"la":50.72237,"lo":-1.904166,"dict":"camden","detail":{"neutral":33.0712,"happy":41.2822,"sad":15.1483,"angry":6.9192,"fearful":0.4449,"disgusted":0.8449,"surprised":2.2894}},{"name":"cityoflondon","emo":15.8011,"la":0,"lo":0,"dict":"cityoflondon","detail":{"neutral":40.7686,"happy":15.8011,"sad":24.8431,"angry":17.2807,"fearful":0.0759,"disgusted":0.3465,"surprised":0.8842}},{"name":"croydon","emo":59.7754,"la":51.3727,"lo":-0.1099,"dict":"croydon","detail":{"neutral":27.9182,"happy":59.7754,"sad":6.9239,"angry":2.0591,"fearful":0.6637,"disgusted":0.758,"surprised":1.9016}},{"name":"ealing","emo":36.8068,"la":51.4913815,"lo":-0.214385,"dict":"ealing","detail":{"neutral":35.4976,"happy":36.8068,"sad":14.6137,"angry":6.0668,"fearful":0.4845,"disgusted":0.6388,"surprised":5.8917}},{"name":"enfield","emo":17.5507,"la":51.645,"lo":-0.06,"dict":"enfield","detail":{"neutral":59.4904,"happy":17.5507,"sad":16.055,"angry":3.4375,"fearful":0.2794,"disgusted":1.5039,"surprised":1.6831}},{"name":"greenwichlondon","emo":41.8227,"la":0,"lo":0,"dict":"greenwichlondon","detail":{"neutral":30.5926,"happy":41.8227,"sad":20.5951,"angry":1.8564,"fearful":1.4155,"disgusted":0.7761,"surprised":2.9415}},{"name":"hackney","emo":44.8417,"la":51.5476,"lo":-0.0558,"dict":"hackney","detail":{"neutral":25.4566,"happy":44.8417,"sad":19.3918,"angry":5.6251,"fearful":0.968,"disgusted":0.9788,"surprised":2.738}},{"name":"hammersmithandfulham","emo":22.3659,"la":0,"lo":0,"dict":"hammersmithandfulham","detail":{"neutral":59.9699,"happy":22.3659,"sad":10.6912,"angry":4.3381,"fearful":0.2145,"disgusted":0.2156,"surprised":2.2048}},{"name":"haringey","emo":51.9271,"la":51.568937,"lo":-0.129724,"dict":"haringey","detail":{"neutral":25.5679,"happy":51.9271,"sad":13.4866,"angry":4.725,"fearful":0.2494,"disgusted":0.8211,"surprised":3.223}},{"name":"havering","emo":30.1107,"la":51.6156,"lo":0.1861,"dict":"havering","detail":{"neutral":35.1037,"happy":30.1107,"sad":25.0627,"angry":5.3603,"fearful":0.8575,"disgusted":0.3174,"surprised":3.1876}},{"name":"hillingdon","emo":39.3802,"la":51.54,"lo":-0.45,"dict":"hillingdon","detail":{"neutral":39.8425,"happy":39.3802,"sad":14.8954,"angry":4.7723,"fearful":0.0638,"disgusted":0.2833,"surprised":0.7626}},{"name":"hounslow","emo":49.592,"la":51.4668,"lo":-0.3507,"dict":"hounslow","detail":{"neutral":33.2145,"happy":49.592,"sad":11.7985,"angry":4.2264,"fearful":0.2057,"disgusted":0.594,"surprised":0.3689}},{"name":"islington","emo":26.5755,"la":51.541155,"lo":-0.085182,"dict":"islington","detail":{"neutral":41.2296,"happy":26.5755,"sad":18.3335,"angry":6.3744,"fearful":0.9043,"disgusted":0.124,"surprised":6.4588}},{"name":"kensingtonandchelsea","emo":34.3342,"la":0,"lo":0,"dict":"kensingtonandchelsea","detail":{"neutral":33.2982,"happy":34.3342,"sad":24.8916,"angry":5.5665,"fearful":0.9324,"disgusted":0.4011,"surprised":0.5759}},{"name":"kingstonuponthames","emo":48.7025,"la":0,"lo":0,"dict":"kingstonuponthames","detail":{"neutral":31.3763,"happy":48.7025,"sad":13.2465,"angry":4.2646,"fearful":0.8494,"disgusted":0.3312,"surprised":1.2297}},{"name":"lambeth","emo":35.687,"la":52.066332,"lo":1.135393,"dict":"lambeth","detail":{"neutral":27.724,"happy":35.687,"sad":21.2604,"angry":11.7916,"fearful":0.7566,"disgusted":0.5423,"surprised":2.2381}},{"name":"lewisham","emo":33.9941,"la":51.4624,"lo":-0.0101,"dict":"lewisham","detail":{"neutral":39.0091,"happy":33.9941,"sad":9.8639,"angry":5.5623,"fearful":1.5474,"disgusted":2.1478,"surprised":7.8754}},{"name":"merton","emo":65.3345,"la":51.8546,"lo":-1.1648,"dict":"merton","detail":{"neutral":14.2896,"happy":65.3345,"sad":12.0385,"angry":2.1426,"fearful":0.413,"disgusted":1.4763,"surprised":4.3055}},{"name":"newham","emo":51.028,"la":55.040352,"lo":-1.639993,"dict":"newham","detail":{"neutral":34.0793,"happy":51.028,"sad":10.5291,"angry":2.3021,"fearful":1.181,"disgusted":0.488,"surprised":0.3925}},{"name":"redbridge","emo":43.488,"la":52.064239,"lo":-0.765034,"dict":"redbridge","detail":{"neutral":37.5563,"happy":43.488,"sad":9.757,"angry":6.6222,"fearful":0.1311,"disgusted":0.2223,"surprised":2.223}},{"name":"richmonduponthames","emo":42.6194,"la":0,"lo":0,"dict":"richmonduponthames","detail":{"neutral":29.5181,"happy":42.6194,"sad":17.4161,"angry":5.4887,"fearful":0.7122,"disgusted":0.824,"surprised":3.4215}},{"name":"southwark","emo":20.9783,"la":51.505676,"lo":-0.104648,"dict":"southwark","detail":{"neutral":43.0908,"happy":20.9783,"sad":14.344,"angry":7.6624,"fearful":1.2202,"disgusted":1.7595,"surprised":10.9449}},{"name":"sutton","emo":42.2101,"la":51.3656,"lo":-0.1963,"dict":"sutton","detail":{"neutral":31.0026,"happy":42.2101,"sad":17.3298,"angry":6.8117,"fearful":0.3125,"disgusted":0.709,"surprised":1.6242}},{"name":"towerhamlets","emo":28.9872,"la":0,"lo":0,"dict":"towerhamlets","detail":{"neutral":31.3514,"happy":28.9872,"sad":32.7175,"angry":2.4636,"fearful":0.5885,"disgusted":1.1109,"surprised":2.7809}},{"name":"walthamforest","emo":55.0559,"la":0,"lo":0,"dict":"walthamforest","detail":{"neutral":27.817,"happy":55.0559,"sad":11.6424,"angry":4.298,"fearful":0.1041,"disgusted":0.0501,"surprised":1.0325}},{"name":"wandsworth","emo":47.6315,"la":0,"lo":0,"dict":"wandsworth","detail":{"neutral":24.7612,"happy":47.6315,"sad":14.4009,"angry":4.9529,"fearful":3.0148,"disgusted":1.707,"surprised":3.5316}},{"name":"westminster","emo":41.5532,"la":53.456543,"lo":-2.344934,"dict":"westminster","detail":{"neutral":36.0659,"happy":41.5532,"sad":15.9259,"angry":3.3696,"fearful":0.051,"disgusted":0.3983,"surprised":2.6363}}]
+[
+    {
+        "name": "Barking and Dagenham",
+        "emo": 27.9819,
+        "la": 51.54244,
+        "lo": 0.14776,
+        "dict": "barkinganddagenham",
+        "detail": {
+            "neutral": 28.4231,
+            "happy": 27.9819,
+            "sad": 37.1619,
+            "angry": 4.0204,
+            "fearful": 0.2187,
+            "disgusted": 1.1223,
+            "surprised": 1.0717
+        }
+    },
+    {
+        "name": "Barnet",
+        "emo": 35.7689,
+        "la": 51.658724,
+        "lo": -0.190878,
+        "dict": "barnet",
+        "detail": {
+            "neutral": 33.4326,
+            "happy": 35.7689,
+            "sad": 20.3073,
+            "angry": 6.9168,
+            "fearful": 0.4061,
+            "disgusted": 1.6389,
+            "surprised": 1.5293
+        }
+    },
+    {
+        "name": "Brent",
+        "emo": 56.9325,
+        "la": 54,
+        "lo": -2,
+        "dict": "brent",
+        "detail": {
+            "neutral": 25.8322,
+            "happy": 56.9325,
+            "sad": 8.1987,
+            "angry": 6.4977,
+            "fearful": 0.7105,
+            "disgusted": 0.8512,
+            "surprised": 0.9772
+        }
+    },
+    {
+        "name": "Bromley",
+        "emo": 26.8472,
+        "la": 51.407,
+        "lo": 0.021,
+        "dict": "bromley",
+        "detail": {
+            "neutral": 52.3785,
+            "happy": 26.8472,
+            "sad": 13.0672,
+            "angry": 3.555,
+            "fearful": 0.151,
+            "disgusted": 1.2128,
+            "surprised": 2.7882
+        }
+    },
+    {
+        "name": "Camden",
+        "emo": 41.2822,
+        "la": 50.72237,
+        "lo": -1.904166,
+        "dict": "camden",
+        "detail": {
+            "neutral": 33.0712,
+            "happy": 41.2822,
+            "sad": 15.1483,
+            "angry": 6.9192,
+            "fearful": 0.4449,
+            "disgusted": 0.8449,
+            "surprised": 2.2894
+        }
+    },
+    {
+        "name": "City of London",
+        "emo": 15.8011,
+        "la": 51.513803,
+        "lo": -0.092259,
+        "dict": "cityoflondon",
+        "detail": {
+            "neutral": 40.7686,
+            "happy": 15.8011,
+            "sad": 24.8431,
+            "angry": 17.2807,
+            "fearful": 0.0759,
+            "disgusted": 0.3465,
+            "surprised": 0.8842
+        }
+    },
+    {
+        "name": "Croydon",
+        "emo": 59.7754,
+        "la": 51.3727,
+        "lo": -0.1099,
+        "dict": "croydon",
+        "detail": {
+            "neutral": 27.9182,
+            "happy": 59.7754,
+            "sad": 6.9239,
+            "angry": 2.0591,
+            "fearful": 0.6637,
+            "disgusted": 0.758,
+            "surprised": 1.9016
+        }
+    },
+    {
+        "name": "Ealing",
+        "emo": 36.8068,
+        "la": 51.4913815,
+        "lo": -0.214385,
+        "dict": "ealing",
+        "detail": {
+            "neutral": 35.4976,
+            "happy": 36.8068,
+            "sad": 14.6137,
+            "angry": 6.0668,
+            "fearful": 0.4845,
+            "disgusted": 0.6388,
+            "surprised": 5.8917
+        }
+    },
+    {
+        "name": "Enfield",
+        "emo": 17.5507,
+        "la": 51.645,
+        "lo": -0.06,
+        "dict": "enfield",
+        "detail": {
+            "neutral": 59.4904,
+            "happy": 17.5507,
+            "sad": 16.055,
+            "angry": 3.4375,
+            "fearful": 0.2794,
+            "disgusted": 1.5039,
+            "surprised": 1.6831
+        }
+    },
+    {
+        "name": "Greenwich",
+        "emo": 41.8227,
+        "la": 51.481135,
+        "lo": -0.008046,
+        "dict": "greenwichlondon",
+        "detail": {
+            "neutral": 30.5926,
+            "happy": 41.8227,
+            "sad": 20.5951,
+            "angry": 1.8564,
+            "fearful": 1.4155,
+            "disgusted": 0.7761,
+            "surprised": 2.9415
+        }
+    },
+    {
+        "name": "Hackney",
+        "emo": 44.8417,
+        "la": 51.5476,
+        "lo": -0.0558,
+        "dict": "hackney",
+        "detail": {
+            "neutral": 25.4566,
+            "happy": 44.8417,
+            "sad": 19.3918,
+            "angry": 5.6251,
+            "fearful": 0.968,
+            "disgusted": 0.9788,
+            "surprised": 2.738
+        }
+    },
+    {
+        "name": "Hammersmith and Fulham",
+        "emo": 22.3659,
+        "la": 51.493089, 
+        "lo": -0.224596,
+        "dict": "hammersmithandfulham",
+        "detail": {
+            "neutral": 59.9699,
+            "happy": 22.3659,
+            "sad": 10.6912,
+            "angry": 4.3381,
+            "fearful": 0.2145,
+            "disgusted": 0.2156,
+            "surprised": 2.2048
+        }
+    },
+    {
+        "name": "haringey",
+        "emo": 51.9271,
+        "la": 51.568937,
+        "lo": -0.129724,
+        "dict": "haringey",
+        "detail": {
+            "neutral": 25.5679,
+            "happy": 51.9271,
+            "sad": 13.4866,
+            "angry": 4.725,
+            "fearful": 0.2494,
+            "disgusted": 0.8211,
+            "surprised": 3.223
+        }
+    },
+    {
+        "name": "Havering",
+        "emo": 30.1107,
+        "la": 51.6156,
+        "lo": 0.1861,
+        "dict": "havering",
+        "detail": {
+            "neutral": 35.1037,
+            "happy": 30.1107,
+            "sad": 25.0627,
+            "angry": 5.3603,
+            "fearful": 0.8575,
+            "disgusted": 0.3174,
+            "surprised": 3.1876
+        }
+    },
+    {
+        "name": "Hillingdon",
+        "emo": 39.3802,
+        "la": 51.54,
+        "lo": -0.45,
+        "dict": "hillingdon",
+        "detail": {
+            "neutral": 39.8425,
+            "happy": 39.3802,
+            "sad": 14.8954,
+            "angry": 4.7723,
+            "fearful": 0.0638,
+            "disgusted": 0.2833,
+            "surprised": 0.7626
+        }
+    },
+    {
+        "name": "Hounslow",
+        "emo": 49.592,
+        "la": 51.4668,
+        "lo": -0.3507,
+        "dict": "hounslow",
+        "detail": {
+            "neutral": 33.2145,
+            "happy": 49.592,
+            "sad": 11.7985,
+            "angry": 4.2264,
+            "fearful": 0.2057,
+            "disgusted": 0.594,
+            "surprised": 0.3689
+        }
+    },
+    {
+        "name": "Islington",
+        "emo": 26.5755,
+        "la": 51.541155,
+        "lo": -0.085182,
+        "dict": "islington",
+        "detail": {
+            "neutral": 41.2296,
+            "happy": 26.5755,
+            "sad": 18.3335,
+            "angry": 6.3744,
+            "fearful": 0.9043,
+            "disgusted": 0.124,
+            "surprised": 6.4588
+        }
+    },
+    {
+        "name": "Kensington and Chelsea",
+        "emo": 34.3342,
+        "la": 51.500807, 
+        "lo": -0.193412,
+        "dict": "kensingtonandchelsea",
+        "detail": {
+            "neutral": 33.2982,
+            "happy": 34.3342,
+            "sad": 24.8916,
+            "angry": 5.5665,
+            "fearful": 0.9324,
+            "disgusted": 0.4011,
+            "surprised": 0.5759
+        }
+    },
+    {
+        "name": "Kingston upon Thames",
+        "emo": 48.7025,
+        "la": 51.412311, 
+        "lo": -0.300611,
+        "dict": "kingstonuponthames",
+        "detail": {
+            "neutral": 31.3763,
+            "happy": 48.7025,
+            "sad": 13.2465,
+            "angry": 4.2646,
+            "fearful": 0.8494,
+            "disgusted": 0.3312,
+            "surprised": 1.2297
+        }
+    },
+    {
+        "name": "Lambeth",
+        "emo": 35.687,
+        "la": 52.066332,
+        "lo": 1.135393,
+        "dict": "lambeth",
+        "detail": {
+            "neutral": 27.724,
+            "happy": 35.687,
+            "sad": 21.2604,
+            "angry": 11.7916,
+            "fearful": 0.7566,
+            "disgusted": 0.5423,
+            "surprised": 2.2381
+        }
+    },
+    {
+        "name": "Lewisham",
+        "emo": 33.9941,
+        "la": 51.4624,
+        "lo": -0.0101,
+        "dict": "lewisham",
+        "detail": {
+            "neutral": 39.0091,
+            "happy": 33.9941,
+            "sad": 9.8639,
+            "angry": 5.5623,
+            "fearful": 1.5474,
+            "disgusted": 2.1478,
+            "surprised": 7.8754
+        }
+    },
+    {
+        "name": "Merton",
+        "emo": 65.3345,
+        "la": 51.8546,
+        "lo": -1.1648,
+        "dict": "merton",
+        "detail": {
+            "neutral": 14.2896,
+            "happy": 65.3345,
+            "sad": 12.0385,
+            "angry": 2.1426,
+            "fearful": 0.413,
+            "disgusted": 1.4763,
+            "surprised": 4.3055
+        }
+    },
+    {
+        "name": "Newham",
+        "emo": 51.028,
+        "la": 55.040352,
+        "lo": -1.639993,
+        "dict": "newham",
+        "detail": {
+            "neutral": 34.0793,
+            "happy": 51.028,
+            "sad": 10.5291,
+            "angry": 2.3021,
+            "fearful": 1.181,
+            "disgusted": 0.488,
+            "surprised": 0.3925
+        }
+    },
+    {
+        "name": "Redbridge",
+        "emo": 43.488,
+        "la": 52.064239,
+        "lo": -0.765034,
+        "dict": "redbridge",
+        "detail": {
+            "neutral": 37.5563,
+            "happy": 43.488,
+            "sad": 9.757,
+            "angry": 6.6222,
+            "fearful": 0.1311,
+            "disgusted": 0.2223,
+            "surprised": 2.223
+        }
+    },
+    {
+        "name": "Richmond upon Thames",
+        "emo": 42.6194,
+        "la": 51.446736, 
+        "lo": -0.328234,
+        "dict": "richmonduponthames",
+        "detail": {
+            "neutral": 29.5181,
+            "happy": 42.6194,
+            "sad": 17.4161,
+            "angry": 5.4887,
+            "fearful": 0.7122,
+            "disgusted": 0.824,
+            "surprised": 3.4215
+        }
+    },
+    {
+        "name": "Southwark",
+        "emo": 20.9783,
+        "la": 51.505676,
+        "lo": -0.104648,
+        "dict": "southwark",
+        "detail": {
+            "neutral": 43.0908,
+            "happy": 20.9783,
+            "sad": 14.344,
+            "angry": 7.6624,
+            "fearful": 1.2202,
+            "disgusted": 1.7595,
+            "surprised": 10.9449
+        }
+    },
+    {
+        "name": "Sutton",
+        "emo": 42.2101,
+        "la": 51.3656,
+        "lo": -0.1963,
+        "dict": "sutton",
+        "detail": {
+            "neutral": 31.0026,
+            "happy": 42.2101,
+            "sad": 17.3298,
+            "angry": 6.8117,
+            "fearful": 0.3125,
+            "disgusted": 0.709,
+            "surprised": 1.6242
+        }
+    },
+    {
+        "name": "Tower Hamlets",
+        "emo": 28.9872,
+        "la": 51.521951,
+        "lo": -0.046262,
+        "dict": "towerhamlets",
+        "detail": {
+            "neutral": 31.3514,
+            "happy": 28.9872,
+            "sad": 32.7175,
+            "angry": 2.4636,
+            "fearful": 0.5885,
+            "disgusted": 1.1109,
+            "surprised": 2.7809
+        }
+    },
+    {
+        "name": "walthamforest",
+        "emo": 55.0559,
+        "la": 51.589442, 
+        "lo": -0.017493,
+        "dict": "walthamforest",
+        "detail": {
+            "neutral": 27.817,
+            "happy": 55.0559,
+            "sad": 11.6424,
+            "angry": 4.298,
+            "fearful": 0.1041,
+            "disgusted": 0.0501,
+            "surprised": 1.0325
+        }
+    },
+    {
+        "name": "Wandsworth",
+        "emo": 47.6315,
+        "la": 51.451053, 
+        "lo": -0.168705,
+        "dict": "wandsworth",
+        "detail": {
+            "neutral": 24.7612,
+            "happy": 47.6315,
+            "sad": 14.4009,
+            "angry": 4.9529,
+            "fearful": 3.0148,
+            "disgusted": 1.707,
+            "surprised": 3.5316
+        }
+    },
+    {
+        "name": "Westminster",
+        "emo": 41.5532,
+        "la": 53.456543,
+        "lo": -2.344934,
+        "dict": "westminster",
+        "detail": {
+            "neutral": 36.0659,
+            "happy": 41.5532,
+            "sad": 15.9259,
+            "angry": 3.3696,
+            "fearful": 0.051,
+            "disgusted": 0.3983,
+            "surprised": 2.6363
+        }
+    }
+]
